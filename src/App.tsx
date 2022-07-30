@@ -1,5 +1,7 @@
+import SignUp from "./pages/SignUp"
+ 
 export default function App() {
   return (
-    <h1>Olá mundo!</h1>
+    <SignUp />
   )
 }
